@@ -3,7 +3,7 @@
 <property name="result.dir" location="./target"/>
 <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
 <path id="Library" >
-<pathelement location="./MyLibrary/junit-4.12.jar"/>
+<pathelement location="./MyLibrary/junit-4.10.jar"/>
 <pathelement location="./MyLibrary/selenium-server-standalone-3.11.0.jar"/>
 <pathelement location="./MyLibrary/hamcrest-core-1.3.jar"/>
 
